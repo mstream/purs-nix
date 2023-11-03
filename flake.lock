@@ -24,15 +24,15 @@
     "docs-search": {
       "flake": false,
       "locked": {
-        "lastModified": 1675992564,
-        "narHash": "sha256-Tk9VSogFHXtXe9O9vuCEfM/PV/S7plMIO0I++fCZn7U=",
-        "owner": "purs-nix",
+        "lastModified": 1698997153,
+        "narHash": "sha256-85RlCaJwQeGQ9Z7i+Ho9PtIr3zVYau2c+pTXVuSfBMI=",
+        "owner": "mstream",
         "repo": "purescript-docs-search",
-        "rev": "35822b1d6ce65b1a07f80dd9e2caf15c3ee83e2c",
+        "rev": "78f37ad80ba0c3ab49e434c9d3972b79cc75915a",
         "type": "github"
       },
       "original": {
-        "owner": "purs-nix",
+        "owner": "mstream",
         "repo": "purescript-docs-search",
         "type": "github"
       }
