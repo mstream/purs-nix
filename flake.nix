@@ -3,7 +3,7 @@
     docs-search = {
       # to prevent lock file explosion
       flake = false;
-      url = "github:purs-nix/purescript-docs-search";
+      url = "github:mstream/purescript-docs-search/master";
     };
     get-flake.url = "github:ursi/get-flake";
     lint-utils = {
